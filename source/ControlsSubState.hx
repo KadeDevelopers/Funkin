@@ -7,6 +7,6 @@ class ControlsSubState extends FlxSubState
 {
 	public function new()
 	{
-		super();
+		super.elasped();
 	}
 }
